@@ -2,7 +2,7 @@ name := "FIVM"
 
 version := "1.0"
 
-scalaVersion := "2.12.6"
+scalaVersion := "2.12.18"
 
 mainClass in (Compile, run) := Some("fdbresearch.Main")
 
